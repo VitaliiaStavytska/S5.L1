@@ -1,0 +1,42 @@
+1. FARE LA SPESA
+
+  1.Entrare in negozio.
+  2.Prendere il carello.
+  3.Scegliere un prodotto.
+  4.Metterlo in carello.
+  5.Scegliere altro prodotto.
+  6.Metterlo in carello.
+  7.Andare alla cassa.
+  8.Mettere i prodotti sul banco.
+  9.Pagare il prezzo della spesa.
+  10.Mettere i prodotti nelle buste.
+  11.Prendere le buste.
+  12.Uscire dal negozio.
+  
+ 
+2. ACQUISTARE UNO SNACK DA UN DISTRIBUTORE
+
+
+    1. Avvicinare ad un distributore.
+    2. Scegliere lo snack.
+    3. Pagare lo snack.
+    4. Prendere lo snack dal contenitore.
+    5. Prendere il resto.
+    6. Allontanarsi dal distributore.
+
+
+
+3. RIEMPIRE IL SERBATOIO DELL'AUTO
+
+   1. Arrivare al bensinaio.
+   2. Uscire dalla macchina.
+   3. Aprire il serbatoio.
+   4. Posizionare il tubo nel serbatoio.
+   5. Avviare ricarica.
+   6. Dopo aver finito, levare il tubo.
+   7. Chiudere il serbatoio.
+   8. Pagare acquisto.
+   9. Mettersi in macchina.
+   10. Allontanarsi dal bensinaio.
+
+
